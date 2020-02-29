@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <?php echo "string"; ?>
+    <?php echo "new string"; ?>
   </body>
 </html>
