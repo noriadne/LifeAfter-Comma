@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <?php echo "new string"; ?>
-  </body>
-</html>
+<?php echo 'real new string'; ?>
